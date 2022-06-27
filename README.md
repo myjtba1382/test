@@ -4,7 +4,7 @@
   # test
   </head>
   <body>
-  <hr><br>
+  <hr>
    <p>test the git push or pull</p>
    </body>
     </html>
